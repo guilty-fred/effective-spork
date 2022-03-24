@@ -1,0 +1,7 @@
+{
+  "name": "vipps-login-mvp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
