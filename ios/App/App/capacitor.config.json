@@ -1,0 +1,6 @@
+{
+	"appId": "no.guilty.fred",
+	"appName": "vipps-login-mvp",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
